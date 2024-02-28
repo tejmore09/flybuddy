@@ -1,0 +1,36 @@
+.signup-container{
+    margin-left: 450px;
+    margin-top: 80px;
+    background-image: linear-gradient(to bottom, rgb(3, 173, 252) , rgb(3, 252, 240));
+    height: 400px;
+    width: 400px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+ }
+ .content{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.user1{
+    padding: 20px;
+}
+.mail{
+    padding: 20px;
+}
+.pass1{
+    padding: 20px;
+}
+
+.btn{
+    border-style: solid;
+    margin-left: 120px;
+    border-radius: 2px;
+}

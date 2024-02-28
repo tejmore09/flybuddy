@@ -1,0 +1,25 @@
+[
+  {
+    "customerEmail": "asd@mail.com",
+    "totalPrice": 600,
+    "flightDetails": {
+      "source": "Mumbai",
+      "destination": "Delhi",
+      "date": "2023-10-21"
+    },
+    "passengers": [
+      {
+        "name": "qwe",
+        "age": 10
+      },
+      {
+        "name": "dzxc",
+        "age": 20
+      },
+      {
+        "name": "asd",
+        "age": 30
+      }
+    ]
+  }
+]
